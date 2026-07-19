@@ -16,6 +16,39 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "N26-Belgium",
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "DE",
+                "level": "Standard"
+            },
+            "source": "官方Web",
+            "ext": "png"
+        },
+        {
+            "description": "N26-France",
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "DE",
+                "level": "Standard"
+            },
+            "source": "官方Web",
+            "ext": "png"
+        },
+        {
+            "description": "N26-Crowd",
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "DE",
+                "level": "Standard"
+            },
+            "source": "官方Web",
+            "ext": "png"
         }
     ]
 }
