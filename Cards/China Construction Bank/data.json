@@ -110,6 +110,17 @@
             },
             "source": "Mi Pay",
             "ext": "png"
+        },
+        {
+            "description": "龙卡足球世界杯信用卡美加墨版",
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "CN",
+                "level": "Platinum"
+            },
+            "source": "官方Web",
+            "ext": "png"
         }
     ]
 }
