@@ -7,14 +7,2439 @@
     },
     "cards": [
         {
-            "description": "普通IC卡",
+            "description": "银联普通IC卡",
+            "bin": [
+                622622
+            ],
             "card": {
                 "type": "Debit",
                 "brand": "UnionPay",
                 "level": "Standard",
                 "country": "CN"
             },
-            "source": "云闪付",
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生山姆主题卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "乐享卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "热爱运动卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "全民运动卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生上海德邦快递联名卡",
+            "bin": [
+                622620
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "四川大学校友联名卡红色版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "四川大学校友联名卡黑色版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生农场优享club梵高卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生农场优享club水墨卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生同行卡-男孩版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生同行卡-女孩版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生同行卡-守望自然母子情深卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生同行卡-守望自然江豚卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生同行卡-守望自然熊猫卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生同行卡-华蒙星篮球卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "最云南蓝花楹卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "最云南特色卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "玉昆足球联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "美好生活卡（都市萌宠）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "美好生活卡（雪漫画枝）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "美好生活卡（皇室龙纹）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "惠通生态卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "云蒙惠卡（家家悦联名版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "云蒙惠卡（胡杨林版)",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "云蒙惠卡（草原版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "畅享魔都卡（蓝色海洋）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "畅享魔都卡（彩色人生）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "欧亚集团联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "洛享卡（牡丹）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "洛享卡（神都）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "海丝版闽惠卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生惠生活联名卡-国风卡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生惠生活联名卡-魔方卡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "青年卡（男）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "青年卡（女）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生嗨购卡—普卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "荣程联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "湘邻卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "长安联合联名卡（金色）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "现代美术馆艺术借记卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+联名卡（小蛮腰版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+联名卡（醒狮版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "吉享卡（长白冰雪）版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "吉享卡（雾凇之都）版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "吉享卡（醉美延边）版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "畅享魔都食惠卡-彩色人生",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "畅享魔都食惠卡-蓝色海洋",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "甘霖生活卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "上海之夏联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "重百联名卡普卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "乐秦卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "楚惠卡（黑色版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "楚惠卡（红色版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "豫通卡（魅力版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "享道联名卡（C端卡）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "享道联名卡（司机端卡）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "豫通卡（双汇联名版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "涌泉云商惠享卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "合力超市联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "普惠泉城借记卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "首杨水果联名卡",
+            "bin": [
+                621691
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "北国商城联名卡普卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "唐久便利联名卡竖版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "唐久便利联名卡横版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "南开大学联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "长三角畅卡普卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "甬惠卡普卡",
+            "bin": [
+                621691
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "家家悦联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "爱生活联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "皖美生活卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦来悦喜联名借记卡（蓝色）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "新百联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生惠享卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "青惠卡（栈桥版）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "青惠卡（五月的风版）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "惠生活主题无界卡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "滨惠连联主题借记卡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "闽惠卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "瓯悦卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "冀享招财进宝卡普卡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生冀享卡（张家口）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生冀享卡（保定）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生冀享卡（石家庄）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生冀享卡（唐山）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生冀享卡（衡水）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生冀享卡（沧州）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生冀享卡（邯郸）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生冀享卡（秦皇岛）",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "蜀悦卡（纯色版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "蜀悦卡（文字版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "浙+主题卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "惠生活黔包卡白卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "惠生活黔包卡黑卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-南京",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-无锡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-常州",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-南通",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-镇江",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-盐城",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-徐州",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-泰州",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-淮安",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-宿迁",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-扬州",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-连云港",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "海惠卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生渝悦卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "潮福卡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "柠檬向右卡",
+            "bin": [
+                622620
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "乐秦-i咸阳卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "大家财险联名卡（黑）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "大家财险联名卡（蓝）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "武汉碳普惠特色借记卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "城西甘霖文旅卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生惠聚赣鄱卡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "太原民生城市卡-太原",
+            "bin": [
+                621691
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "太原民生城市卡-吕梁",
+            "bin": [
+                621691
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "太原民生城市卡-大同",
+            "bin": [
+                621691
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "太原民生城市卡-运城",
+            "bin": [
+                621691
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "大统集团联名卡-青春版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "大统集团联名卡-活力版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "八桂幸福卡（优居）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "顺丰速运联名借记卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生惠生活-小八乐购卡",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "济南民生物流一卡通",
+            "bin": [
+                622619
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "陇原竞技联名借记卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "苏韵城市主题卡-苏州",
+            "bin": [
+                622615
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "明康汇联名卡",
+            "bin": [
+                621691
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "兴龙广缘联名卡横版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "兴龙广缘联名卡竖版",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "八桂幸福卡（行）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "八桂幸福卡（食）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "八桂幸福卡（居）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "八桂幸福卡（美）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "八桂幸福卡（健）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "八桂幸福卡（福）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "八桂幸福卡（创）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "闽惠卡—福州福卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "闽惠卡—莆田福卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "闽惠卡—龙岩福卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "闽惠卡—漳州福卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "闽惠卡—宁德福卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "京津冀三地京彩卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "京津冀三地冀彩卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "信阳西亚联名卡（微笑）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "信阳西亚联名卡（美好）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "佳发教育联名借记卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦享鹏程卡-鹏城之光",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦享鹏程卡-山海连城",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦享鹏程卡-深港同心",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "百信集团联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+卡（惠州版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "京津冀三地津彩卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+卡（肇庆版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+卡（珠海版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+卡（中山版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+卡（江门版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+卡（佛山版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悦+卡（东莞版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "悠享家卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "椰子薪资理财卡",
+            "bin": [
+                622620
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生银行吉祥航空联名借记卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "民生拉萨城市卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "巴蜀悠游卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "巴蜀悦活卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "新鹏城联名卡（深蓝徽章版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "新鹏城联名卡（极简版）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "电子科技大学联名卡-主楼",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "电子科技大学联名卡-宣邦楼",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "一心堂联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "百里杜鹃联名卡（繁华）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "百里杜鹃联名卡（映山）",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
+            "ext": "png"
+        },
+        {
+            "description": "暨博医疗联名卡",
+            "bin": [
+                622622
+            ],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN",
+                "level": "Standard"
+            },
+            "source": "民生银行",
             "ext": "png"
         }
     ]
