@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "Treecard",
+        "english_name": "Treecard",
+        "country": "US",
+        "url": "https://www.treecard.org"
+    },
+    "cards": [
+        {
+            "description": "Treecard",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/126",
+            "ext": "jpeg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "Truist",
+        "english_name": "Truist",
+        "country": "US",
+        "url": "https://www.truist.com"
+    },
+    "cards": [
+        {
+            "description": "Debit Card",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/177",
+            "ext": "jpeg"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "bank": {
+        "native_name": "Brex",
+        "english_name": "Brex",
+        "country": "US",
+        "url": "https://www.brex.com"
+    },
+    "cards": [
+        {
+            "description": "Brex Card",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/426",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Metal Card",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/448",
+            "ext": "jpeg"
+        },
+        {
+            "description": "White Card (Virtual)",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/448",
+            "ext": "jpeg"
+        }
+    ]
+}

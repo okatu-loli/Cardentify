@@ -27,6 +27,39 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Elite",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/664",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Premier",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/664",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Premier Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/1",
+            "ext": "jpeg"
         }
     ]
 }

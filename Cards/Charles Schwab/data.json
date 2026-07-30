@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "Charles Schwab",
+        "english_name": "Charles Schwab",
+        "country": "US",
+        "url": "https://www.schwab.com"
+    },
+    "cards": [
+        {
+            "description": "Investor Checking Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/243",
+            "ext": "jpeg"
+        }
+    ]
+}

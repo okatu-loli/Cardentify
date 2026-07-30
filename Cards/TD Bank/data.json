@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "TD Bank",
+        "english_name": "TD Bank",
+        "country": "US",
+        "url": "https://www.td.com/us"
+    },
+    "cards": [
+        {
+            "description": "Debit Card",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/66",
+            "ext": "png"
+        }
+    ]
+}

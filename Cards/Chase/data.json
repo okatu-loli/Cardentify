@@ -19,6 +19,215 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Disney Midnight Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/38",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Marriott Bonvoy Boundless",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/100",
+            "ext": "png"
+        },
+        {
+            "description": "Marriott Bonvoy Boundless (New)",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/377",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Aeroplan",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/166",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Amazon Prime Rewards (Whole Foods)",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/167",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Sapphire Banking Debit (Rose Gold)",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/155",
+            "ext": "png"
+        },
+        {
+            "description": "Freedom Flex",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/277",
+            "ext": "jpeg"
+        },
+        {
+            "description": "World of Hyatt",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/374",
+            "ext": "jpeg"
+        },
+        {
+            "description": "World of Hyatt Business",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/540",
+            "ext": "jpeg"
+        },
+        {
+            "description": "IHG One Rewards Premier",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/377",
+            "ext": "png"
+        },
+        {
+            "description": "Star Wars Darth Vader Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/391",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Star Wars Darth Vader Debit (New)",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/561",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Star Wars BB-8 Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/192",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Platinum Business Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/424",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Ink Business Premier",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/424",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Ink Business Unlimited",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/438",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Ink Business Preferred",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/487",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Sapphire Reserve (New)",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/692",
+            "ext": "jpeg"
+        },
+        {
+            "description": "United MileagePlus Quest",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/538",
+            "ext": "jpeg"
         }
     ]
 }

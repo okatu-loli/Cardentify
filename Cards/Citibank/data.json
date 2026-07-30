@@ -1,0 +1,98 @@
+{
+    "bank": {
+        "native_name": "Citibank",
+        "english_name": "Citibank",
+        "country": "US",
+        "url": "https://www.citi.com"
+    },
+    "cards": [
+        {
+            "description": "Custom Cash",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/167",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Double Cash",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/633",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Costco Anywhere (New)",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/679",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Rewards+",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/277",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Strata Premier",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/526",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Strata Elite",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/649",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Strata",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/630",
+            "ext": "jpeg"
+        },
+        {
+            "description": "AAdvantage Business",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/526",
+            "ext": "jpeg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "LINE Pay",
+        "english_name": "Line Pay",
+        "country": "JP",
+        "url": "https://pay.line.me"
+    },
+    "cards": [
+        {
+            "description": "Japan Prepaid Card",
+            "bin": [],
+            "card": {
+                "type": "Prepaid",
+                "brand": "JCB",
+                "country": "JP"
+            },
+            "source": "USCardForum #29408/423",
+            "ext": "jpeg"
+        }
+    ]
+}

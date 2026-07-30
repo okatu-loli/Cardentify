@@ -1,0 +1,32 @@
+{
+    "bank": {
+        "native_name": "Wells Fargo",
+        "english_name": "Wells Fargo",
+        "country": "US",
+        "url": "https://www.wellsfargo.com"
+    },
+    "cards": [
+        {
+            "description": "Active Cash",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/243",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Debit Card",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/244",
+            "ext": "jpeg"
+        }
+    ]
+}

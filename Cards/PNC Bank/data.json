@@ -1,0 +1,54 @@
+{
+    "bank": {
+        "native_name": "PNC Bank",
+        "english_name": "PNC Bank",
+        "country": "US",
+        "url": "https://www.pnc.com"
+    },
+    "cards": [
+        {
+            "description": "University of Michigan Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/38",
+            "ext": "png"
+        },
+        {
+            "description": "Pride Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/371",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Virtual Wallet Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/512",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Debit Card",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/703",
+            "ext": "png"
+        }
+    ]
+}

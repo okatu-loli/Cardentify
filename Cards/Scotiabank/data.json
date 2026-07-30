@@ -19,6 +19,17 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Gold American Express",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "American Express",
+                "country": "CA"
+            },
+            "source": "USCardForum #29408/762",
+            "ext": "jpeg"
         }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "Navy Federal Credit Union",
+        "english_name": "Navy Federal Credit Union",
+        "country": "US",
+        "url": "https://www.navyfederal.org"
+    },
+    "cards": [
+        {
+            "description": "cashRewards Plus",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/763",
+            "ext": "jpeg"
+        }
+    ]
+}

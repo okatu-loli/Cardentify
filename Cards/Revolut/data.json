@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "Revolut",
+        "english_name": "Revolut",
+        "country": "GB",
+        "url": "https://www.revolut.com"
+    },
+    "cards": [
+        {
+            "description": "Revolut",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "GB"
+            },
+            "source": "USCardForum #29408/414",
+            "ext": "jpeg"
+        }
+    ]
+}

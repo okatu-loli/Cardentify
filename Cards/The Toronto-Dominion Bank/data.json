@@ -19,6 +19,17 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Aeroplan Visa Infinite Privilege",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "CA"
+            },
+            "source": "USCardForum #29408/762",
+            "ext": "jpeg"
         }
     ]
 }

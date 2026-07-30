@@ -1,0 +1,32 @@
+{
+    "bank": {
+        "native_name": "Fidelity",
+        "english_name": "Fidelity",
+        "country": "US",
+        "url": "https://www.fidelity.com"
+    },
+    "cards": [
+        {
+            "description": "Debit Card",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/243",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Fidelity Cash Debit (New)",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/537",
+            "ext": "jpeg"
+        }
+    ]
+}

@@ -30,6 +30,17 @@
             },
             "source": "云闪付",
             "ext": "jpeg"
+        },
+        {
+            "description": "Premier Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN"
+            },
+            "source": "USCardForum #29408/423",
+            "ext": "jpeg"
         }
     ]
 }

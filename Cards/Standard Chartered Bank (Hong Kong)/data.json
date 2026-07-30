@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "渣打銀行（香港）",
+        "english_name": "Standard Chartered Bank (Hong Kong)",
+        "country": "HK",
+        "url": "https://www.sc.com/hk"
+    },
+    "cards": [
+        {
+            "description": "國泰聯名信用卡",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "HK"
+            },
+            "source": "USCardForum #29408/556",
+            "ext": "jpeg"
+        }
+    ]
+}

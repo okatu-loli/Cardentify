@@ -1,0 +1,43 @@
+{
+    "bank": {
+        "native_name": "Barclays US",
+        "english_name": "Barclays US",
+        "country": "US",
+        "url": "https://www.barclaycardus.com"
+    },
+    "cards": [
+        {
+            "description": "JetBlue",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/515",
+            "ext": "jpeg"
+        },
+        {
+            "description": "JetBlue Business",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/692",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Hawaiian Airlines",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/557",
+            "ext": "jpeg"
+        }
+    ]
+}

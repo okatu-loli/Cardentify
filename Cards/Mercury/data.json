@@ -1,0 +1,32 @@
+{
+    "bank": {
+        "native_name": "Mercury",
+        "english_name": "Mercury",
+        "country": "US",
+        "url": "https://mercury.com"
+    },
+    "cards": [
+        {
+            "description": "Business Debit (New)",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/371",
+            "ext": "jpeg"
+        },
+        {
+            "description": "IO Credit Card",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/426",
+            "ext": "jpeg"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "bank": {
+        "native_name": "Capital One",
+        "english_name": "Capital One",
+        "country": "US",
+        "url": "https://www.capitalone.com"
+    },
+    "cards": [
+        {
+            "description": "Debit Card",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/66",
+            "ext": "png"
+        },
+        {
+            "description": "Savor",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/763",
+            "ext": "jpeg"
+        },
+        {
+            "description": "360 Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/699",
+            "ext": "png"
+        }
+    ]
+}

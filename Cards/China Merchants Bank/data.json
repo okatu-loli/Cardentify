@@ -56,9 +56,9 @@
             "source": "Apple Pay",
             "ext": "png"
         },
-               {
+        {
             "description": "一闪通账户",
-                    "bin": [
+            "bin": [
                 621483
             ],
             "card": {
@@ -486,7 +486,7 @@
             "source": "云闪付",
             "ext": "png"
         },
-         {
+        {
             "description": "宝可梦联名借记卡(妙蛙种子)",
             "card": {
                 "type": "Debit",
@@ -497,7 +497,7 @@
             "source": "云闪付",
             "ext": "png"
         },
-         {
+        {
             "description": "宝可梦联名借记卡(杰尼龟)",
             "card": {
                 "type": "Debit",
@@ -508,7 +508,7 @@
             "source": "云闪付",
             "ext": "png"
         },
-         {
+        {
             "description": "宝可梦联名借记卡(喷火龙)",
             "card": {
                 "type": "Debit",
@@ -519,7 +519,7 @@
             "source": "云闪付",
             "ext": "png"
         },
-         {
+        {
             "description": "宝可梦联名借记卡(可达鸭)",
             "card": {
                 "type": "Debit",
@@ -530,7 +530,7 @@
             "source": "云闪付",
             "ext": "png"
         },
-         {
+        {
             "description": "宝可梦联名借记卡(鲤鱼王)",
             "card": {
                 "type": "Debit",
@@ -962,6 +962,83 @@
             },
             "source": "招商银行",
             "ext": "png"
+        },
+        {
+            "description": "原神联名信用卡",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN"
+            },
+            "source": "USCardForum #29408/265",
+            "ext": "jpeg"
+        },
+        {
+            "description": "白金借记卡",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN"
+            },
+            "source": "USCardForum #29408/423",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Young卡",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN"
+            },
+            "source": "USCardForum #29408/423",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Young卡（炫酷黑）",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN"
+            },
+            "source": "USCardForum #29408/450",
+            "ext": "jpeg"
+        },
+        {
+            "description": "一卡通金卡",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "UnionPay",
+                "country": "CN"
+            },
+            "source": "USCardForum #29408/452",
+            "ext": "jpeg"
+        },
+        {
+            "description": "自由人生白金信用卡",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN"
+            },
+            "source": "USCardForum #29408/589",
+            "ext": "jpeg"
+        },
+        {
+            "description": "哔哩哔哩联名花嫁卡",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "UnionPay",
+                "country": "CN"
+            },
+            "source": "USCardForum #29408/458",
+            "ext": "jpeg"
         }
     ]
 }

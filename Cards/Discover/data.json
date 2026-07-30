@@ -1,0 +1,142 @@
+{
+    "bank": {
+        "native_name": "Discover",
+        "english_name": "Discover",
+        "country": "US",
+        "url": "https://www.discover.com"
+    },
+    "cards": [
+        {
+            "description": "Mix Tape",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/38",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Discover it German Shepherd",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/167",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Discover it Gold",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/243",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Discover it",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/251",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Discover it Vinyl",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/252",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Discover it Braille",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/252",
+            "ext": "png"
+        },
+        {
+            "description": "Discover it Cats",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/389",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Discover it New York Skyline",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/478",
+            "ext": "png"
+        },
+        {
+            "description": "Discover it Miles",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/693",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Discover it Retro",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/561",
+            "ext": "jpeg"
+        },
+        {
+            "description": "NHL Nashville Predators",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/759",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Discover it Space",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "Discover",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/192",
+            "ext": "jpeg"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "bank": {
+        "native_name": "U.S. Bank",
+        "english_name": "U.S. Bank",
+        "country": "US",
+        "url": "https://www.usbank.com"
+    },
+    "cards": [
+        {
+            "description": "US Flag Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/243",
+            "ext": "png"
+        },
+        {
+            "description": "Cash+",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/515",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Business Triple Cash",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/517",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Business Altitude Connect",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/599",
+            "ext": "png"
+        },
+        {
+            "description": "Altitude Connect",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/486",
+            "ext": "png"
+        },
+        {
+            "description": "Ralphs Rewards",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/488",
+            "ext": "jpeg"
+        },
+        {
+            "description": "Pride",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/529",
+            "ext": "jpeg"
+        }
+    ]
+}

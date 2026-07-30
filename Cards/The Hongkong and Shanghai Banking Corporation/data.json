@@ -159,6 +159,17 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "HSBC One ATM Card",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "Mastercard",
+                "country": "HK"
+            },
+            "source": "USCardForum #29408/604",
+            "ext": "png"
         }
     ]
 }

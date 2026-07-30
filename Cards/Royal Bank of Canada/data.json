@@ -19,6 +19,17 @@
             },
             "source": "Apple Pay",
             "ext": "png"
+        },
+        {
+            "description": "Avion Visa Infinite",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "VISA",
+                "country": "CA"
+            },
+            "source": "USCardForum #29408/529",
+            "ext": "jpeg"
         }
     ]
 }

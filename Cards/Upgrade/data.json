@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "native_name": "Upgrade",
+        "english_name": "Upgrade",
+        "country": "US",
+        "url": "https://www.upgrade.com"
+    },
+    "cards": [
+        {
+            "description": "Checking Debit",
+            "bin": [],
+            "card": {
+                "type": "Debit",
+                "brand": "VISA",
+                "country": "US"
+            },
+            "source": "USCardForum #29408/699",
+            "ext": "png"
+        }
+    ]
+}
