@@ -461,6 +461,18 @@
             },
             "source": "USCardForum #29408/525",
             "ext": "jpeg"
+        },
+        {
+            "description": "Marriott Bonvoy Brilliant",
+            "bin": [],
+            "card": {
+                "type": "Credit",
+                "brand": "American Express",
+                "country": "US",
+                "level": "Premium"
+            },
+            "source": "American Express official card art",
+            "ext": "png"
         }
     ]
 }
