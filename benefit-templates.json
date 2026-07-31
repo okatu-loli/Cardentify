@@ -1,0 +1,56 @@
+[
+  {
+    "match": "Marriott Bonvoy Brilliant",
+    "benefits": [
+      { "name": "免费房晚（≤85k 分）", "quota": 1, "unlimited": false },
+      { "name": "Priority Pass 贵宾厅", "quota": 1, "unlimited": true },
+      { "name": "$25 餐饮报销", "quota": 12, "unlimited": false }
+    ]
+  },
+  {
+    "match": "Sapphire Reserve (New)",
+    "benefits": [
+      { "name": "$300 旅行报销", "quota": 1, "unlimited": false },
+      { "name": "Priority Pass 贵宾厅", "quota": 1, "unlimited": true }
+    ]
+  },
+  {
+    "match": "Platinum Card x Julie Mehretu",
+    "benefits": [
+      { "name": "环亚/百夫长贵宾厅", "quota": 1, "unlimited": true },
+      { "name": "$200 酒店报销", "quota": 1, "unlimited": false },
+      { "name": "$15 Uber Cash", "quota": 12, "unlimited": false }
+    ]
+  },
+  {
+    "match": "World of Hyatt",
+    "benefits": [
+      { "name": "免费房晚 Cat 1-4", "quota": 1, "unlimited": false }
+    ]
+  },
+  {
+    "match": "IHG One Rewards Premier",
+    "benefits": [
+      { "name": "周年免费房晚", "quota": 1, "unlimited": false }
+    ]
+  },
+  {
+    "match": "Hilton Honors Surpass",
+    "benefits": [
+      { "name": "季度 $50 希尔顿报销", "quota": 4, "unlimited": false }
+    ]
+  },
+  {
+    "match": "经典白金卡",
+    "benefits": [
+      { "name": "机场贵宾厅", "quota": 2, "unlimited": false },
+      { "name": "航空延误险", "quota": 1, "unlimited": true }
+    ]
+  },
+  {
+    "match": "Young卡",
+    "benefits": [
+      { "name": "生日月双倍积分", "quota": 1, "unlimited": true }
+    ]
+  }
+]
